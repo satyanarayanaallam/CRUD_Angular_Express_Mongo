@@ -14,3 +14,5 @@
 10. Create directory app/routes and create employee.route.js
 11. Create directory app/controller and create employee.controller.js
 
+-----------------------MOngo DB startup command
+"C:\Program Files\MongoDB\Server\3.2\bin\mongod.exe" --dbpath E:\MongoDB_Database
